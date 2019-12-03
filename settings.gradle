@@ -1,0 +1,2 @@
+include ':LifecycleActivity', ':intent', ':notificationapp', ':dialogsr'
+rootProject.name='lab2_1'
